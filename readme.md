@@ -21,7 +21,7 @@
 	[-s] 用于设置server.py运行的服务器地址
 	[-p] 用于设置server.py监听的端口号
 
-### Server.py
+### server.py
 * 运行在远程服务器，实现HTTP/HTTPS的解析和访问
 * 用法：
     <code>python server.py [-p][port]</code>
