@@ -10,9 +10,9 @@ from util import *
 BUF_SIZ = 8192
 
 Local = "127.0.0.1"
-GoogleCloud = "34.92.243.123"
+remote = '' #Your server addr
 
-remote_host = GoogleCloud
+remote_host = remote
 remote_port = 8081
 local_host = "127.0.0.1"
 local_port = 8090
